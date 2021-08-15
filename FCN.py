@@ -17,8 +17,8 @@ DROPOUT = 0.75
 # Specify these directory paths
 
 data_dir = '/home/xavier/PycharmProjects/pythonProject' #数据集位置
-runs_dir = '/home/xavier/PycharmProjects/pythonProject/runs' #
-training_dir = '/home/xavier/PycharmProjects/pythonProject/data_road/training'
+runs_dir = '/home/xavier/PycharmProjects/pythonProject/runs' #训练中模型保存位置
+training_dir = '/home/xavier/PycharmProjects/pythonProject/data_road/training' #训练数据集的文件位置
 vgg_path = '/home/xavier/PycharmProjects/pythonProject/CarND/vgg' #VGG基础模型的位置
 
 # --------------------------
