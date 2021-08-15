@@ -16,10 +16,10 @@ DROPOUT = 0.75
 
 # Specify these directory paths
 
-data_dir = '/home/xavier/PycharmProjects/pythonProject'
-runs_dir = '/home/xavier/PycharmProjects/pythonProject/runs'
+data_dir = '/home/xavier/PycharmProjects/pythonProject' #数据集位置
+runs_dir = '/home/xavier/PycharmProjects/pythonProject/runs' #
 training_dir = '/home/xavier/PycharmProjects/pythonProject/data_road/training'
-vgg_path = '/home/xavier/PycharmProjects/pythonProject/CarND/vgg'
+vgg_path = '/home/xavier/PycharmProjects/pythonProject/CarND/vgg' #VGG基础模型的位置
 
 # --------------------------
 # PLACEHOLDER TENSORS
